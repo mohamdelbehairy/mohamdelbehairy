@@ -4,9 +4,15 @@ Welcome to my GitHub profile! I'm a dedicated Flutter developer with a passion f
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamdelbehairy&label=Profile%20views&color=0e75b6&style=flat" alt="mohamdelbehairy" /> </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> 
+</div>
+
+## 💫 About Me:
+
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 All of my projects are available at https://github.com/mohamdelbehairy
+- 👨‍💻 All of my projects are available at https://github.com/mohamdelbehairy?tab=repositories
 
 - 💬 Ask me about **Flutter**
 
