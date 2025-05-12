@@ -12,8 +12,6 @@ Welcome to my GitHub profile! I'm a dedicated Flutter developer with a passion f
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👨‍💻 **Explore My Projects:** [GitHub Repositories](https://github.com/mohamdelbehairy?tab=repositories).
-
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mohmdelbehairy@gmail.com**
