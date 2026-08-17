@@ -71,19 +71,19 @@
     <td width="50%" valign="top">
       <h4>📰 Ya Khabar</h4>
       <p>News verification platform with automated push alerts, rumor tracking, and sub-second feed caching.</p>
-      <sub><code>Flutter</code> <code>REST APIs</code> <code>FCM</code> <code>Offline-First</code></sub>
+      <sub><code>Flutter</code> <code>Firebase</code> <code>FCM</code> <code>Offline-First</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>⚖️ Aqdk</h4>
       <p>Legal officiant booking platform with encrypted document workflows and official registry pipelines.</p>
-      <sub><code>Flutter</code> <code>Clean Architecture</code> <code>Supabase</code></sub>
+      <sub><code>Flutter</code> <code>Clean Architecture</code> <code>REST APIs</code></sub>
     </td>
     <td width="50%" valign="top">
       <h4>📈 Cairo Capital Wealth</h4>
       <p>Fintech asset management app providing live portfolio analytics, asset charts, and real-time fund tracking.</p>
-      <sub><code>Flutter</code> <code>Fintech Charts</code> <code>REST APIs</code></sub>
+      <sub><code>Flutter</code> <code>Fintech Charts</code> <code>Firebase</code></sub>
     </td>
   </tr>
 </table>
