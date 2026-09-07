@@ -89,17 +89,3 @@
 </table>
 
 ---
-
-### 📊 Live Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamdelbehairy&theme=tokyo-night&hide_border=true&area=true" alt="Activity Wave Graph" width="100%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<sub>Engineered with precision by <strong>Mohamed Elbehairy</strong> • Cairo, Egypt</sub>
-
-</div>
