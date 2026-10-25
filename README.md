@@ -26,7 +26,7 @@
   "engineer": "Mohamed Elbehairy",
   "degree": "B.Sc. in Artificial Intelligence",
   "specialization": "Cross-Platform Mobile (Flutter) & Web Engineering",
-  "track_record": "18+ Apps & Websites Shipped (App Store, Google Play & Web)",
+  "track_record": "21+ Apps & Websites Shipped (App Store, Google Play & Web)",
   "reliability": "99.8% Crash-Free Runtime",
   "expanding": ["React.js", "Next.js", "TypeScript", "Tailwind CSS"]
 }
