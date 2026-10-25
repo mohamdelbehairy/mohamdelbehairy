@@ -4,7 +4,7 @@
 
 # 🚀 MOHAMED ELBEHAIRY
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=500&color=00F0FF&center=true&vcenter=true&width=700&lines=SOFTWARE+ENGINEER;FLUTTER+DEVELOPER+%26+WEB+ENGINEER;18%2B+APPS+%26+WEBSITES+SHIPPED;99.8%25+PRODUCTION+RUNTIME+STABILITY;EXPANDING+REACT+%26+NEXT.JS" alt="Animated Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=500&color=00F0FF&center=true&vcenter=true&width=700&lines=SOFTWARE+ENGINEER;FLUTTER+DEVELOPER+%26+WEB+ENGINEER;21%2B+APPS+%26+WEBSITES+SHIPPED;99.8%25+PRODUCTION+RUNTIME+STABILITY;EXPANDING+REACT+%26+NEXT.JS" alt="Animated Title" />
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-elbehairy-899957258">
