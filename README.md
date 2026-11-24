@@ -4,7 +4,7 @@
 
 # 🚀 MOHAMED ELBEHAIRY
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=500&color=00F0FF&center=true&vcenter=true&width=700&lines=SOFTWARE+ENGINEER;FLUTTER+DEVELOPER+%26+WEB+ENGINEER;21%2B+APPS+%26+WEBSITES+SHIPPED;99.8%25+PRODUCTION+RUNTIME+STABILITY;EXPANDING+REACT+%26+NEXT.JS" alt="Animated Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2000&pause=500&color=00F0FF&center=true&vcenter=true&width=700&lines=SOFTWARE+ENGINEER;FLUTTER+DEVELOPER+%26+WEB+ENGINEER;22%2B+APPS+%26+WEBSITES+SHIPPED;99.8%25+PRODUCTION+RUNTIME+STABILITY;EXPANDING+REACT+%26+NEXT.JS" alt="Animated Title" />
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-elbehairy-899957258">
@@ -26,13 +26,13 @@
   "engineer": "Mohamed Elbehairy",
   "degree": "B.Sc. in Artificial Intelligence",
   "specialization": "Cross-Platform Mobile (Flutter) & Web Engineering",
-  "track_record": "21+ Apps & Websites Shipped (App Store, Google Play & Web)",
+  "track_record": "22+ Apps & Websites Shipped (App Store, Google Play & Web)",
   "reliability": "99.8% Crash-Free Runtime",
   "expanding": ["React.js", "Next.js", "TypeScript", "Tailwind CSS"]
 }
 </pre>
 
-- 📱 **Mobile & Web Delivery:** Shipped **18+ commercial applications and web platforms** across App Store, Google Play, and modern web environments.
+- 📱 **Mobile & Web Delivery:** Shipped **22+ commercial applications and web platforms** across App Store, Google Play, and modern web environments.
 - 🏛️ **Clean Architecture:** Strict adherence to Clean Architecture, BLoC/Cubit, and reactive state management.
 - ⚡ **Real-Time Engines:** Sub-300ms data synchronization with Firebase, Supabase, and RESTful services.
 - 🌐 **Modern Frontend:** Practical development of scalable web dashboards with React, Next.js, and Tailwind CSS.
